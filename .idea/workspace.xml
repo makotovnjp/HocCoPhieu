@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17aece25-ab8e-49c8-8661-f708125ec5a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamental/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Technical/Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,5 +37,11 @@
       <updated>1604235961233</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604320665852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604320665852" />
   </component>
 </project>
